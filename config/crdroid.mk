@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
 
 # Extra packages
 PRODUCT_PACKAGES += \
+    GamingMode \
     crDroidMusic \
     crDroidThemesStub \
     ThemePicker \
