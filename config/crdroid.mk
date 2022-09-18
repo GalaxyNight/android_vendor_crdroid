@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
 
 # Extra packages
 PRODUCT_PACKAGES += \
-    GamingMode \
     crDroidMusic \
     crDroidThemesStub \
     ThemePicker \
@@ -43,7 +42,8 @@ PRODUCT_PACKAGES += \
     OmniStyle \
     MatLog \
     QuickAccessWallet \
-    StitchImage
+    StitchImage \
+    GamingMode
 
 # Fonts
 PRODUCT_PACKAGES += \
